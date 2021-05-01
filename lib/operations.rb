@@ -12,3 +12,4 @@ end
 
 puts unsafe?(30)
 puts unsafe?(50)
+puts unsafe?(60)
