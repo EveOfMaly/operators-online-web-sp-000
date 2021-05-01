@@ -10,3 +10,4 @@ end
 	
 
 
+puts unsafe?(30)
